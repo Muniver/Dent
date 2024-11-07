@@ -1,0 +1,35 @@
+body {
+    background: url('giphy.gif') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.form-container {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 80%;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
